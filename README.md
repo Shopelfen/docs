@@ -4,6 +4,10 @@
 
 Wir, **Shopelfen** 🧚, arbeiten aktuell an einem völlig unabhängigen Plugin-Store – direkt von und für die Shopware-Community. Unser Ziel ist es, einen Store zu schaffen, der bessere Konditionen bietet und frei von der restriktiven Lizenzpolitik ist, wie sie aktuell bei Shopware zu beobachten ist 🔓.
 
+## Unser Discord
+
+Komme mit vielen anderen ins Gesrpräch, trete unserem Discord bei. [Shopelfen Disorc](https://discord.gg/XvqSw93zEW)
+
 ## Warum ein eigener Store? 🤔
 
 Mit der Einführung der neuen Fair Usage Policy und den anstehenden Einschränkungen rund um die Community Edition wird der direkte Zugang zu Plugins und Themes für viele Shopware-Nutzer immer schwieriger. Unser Store bietet euch folgende Vorteile:
