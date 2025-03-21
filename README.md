@@ -6,7 +6,7 @@ Wir, **Shopelfen** 🧚, arbeiten aktuell an einem völlig unabhängigen Plugin-
 
 ## Unser Discord
 
-Komme mit vielen anderen ins Gesrpräch, trete unserem [Shopelfen Disorc](https://discord.gg/XvqSw93zEW) bei. 
+Komme mit vielen anderen ins Gesrpräch, trete unserem [Shopelfen Discord](https://discord.gg/XvqSw93zEW) bei. 
 
 ## Warum ein eigener Store? 🤔
 
